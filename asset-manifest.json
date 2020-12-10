@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AR1N/react_todo_demo/static/css/main.d3d51690.chunk.css",
+    "main.js": "/AR1N/react_todo_demo/static/js/main.0a0cdd21.chunk.js",
+    "main.js.map": "/AR1N/react_todo_demo/static/js/main.0a0cdd21.chunk.js.map",
+    "runtime-main.js": "/AR1N/react_todo_demo/static/js/runtime-main.5e883103.js",
+    "runtime-main.js.map": "/AR1N/react_todo_demo/static/js/runtime-main.5e883103.js.map",
+    "static/css/2.027e9bb2.chunk.css": "/AR1N/react_todo_demo/static/css/2.027e9bb2.chunk.css",
+    "static/js/2.2fb432b3.chunk.js": "/AR1N/react_todo_demo/static/js/2.2fb432b3.chunk.js",
+    "static/js/2.2fb432b3.chunk.js.map": "/AR1N/react_todo_demo/static/js/2.2fb432b3.chunk.js.map",
+    "index.html": "/AR1N/react_todo_demo/index.html",
+    "precache-manifest.d8e5326aaa9c324a1b7acae30cccf90f.js": "/AR1N/react_todo_demo/precache-manifest.d8e5326aaa9c324a1b7acae30cccf90f.js",
+    "service-worker.js": "/AR1N/react_todo_demo/service-worker.js",
+    "static/css/2.027e9bb2.chunk.css.map": "/AR1N/react_todo_demo/static/css/2.027e9bb2.chunk.css.map",
+    "static/css/main.d3d51690.chunk.css.map": "/AR1N/react_todo_demo/static/css/main.d3d51690.chunk.css.map",
+    "static/js/2.2fb432b3.chunk.js.LICENSE.txt": "/AR1N/react_todo_demo/static/js/2.2fb432b3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AR1N/react_todo_demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e883103.js",
+    "static/css/2.027e9bb2.chunk.css",
+    "static/js/2.2fb432b3.chunk.js",
+    "static/css/main.d3d51690.chunk.css",
+    "static/js/main.0a0cdd21.chunk.js"
+  ]
+}
